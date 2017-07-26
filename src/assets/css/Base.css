@@ -1,0 +1,56 @@
+.baseContainer{
+  padding-left: 3px;
+}
+
+
+.base{
+    width: 7.5px;
+    height: 7.5px;
+/* Rotate */
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+/* Rotate Origin */
+    -webkit-transform-origin: 0 100%;
+    -moz-transform-origin: 0 100%;
+    -ms-transform-origin: 0 100%;
+    -o-transform-origin: 0 100%;
+    transform-origin: 0 100%;
+    position: absolute;
+}
+
+.bases{
+  position: relative;
+  top: -12px;
+}
+
+#first{
+  margin: 27px 0 0 28px;
+}
+
+#second{
+  margin: 18px 0px 0px 20px;
+}
+
+#third{
+  margin: 27px 0 0 12px;
+}
+
+.outs{
+  position: relative;
+  top: 28px;
+}
+
+.outs p{
+  font-size: 11px;
+  margin-left: 3.5px;
+}
+
+.playerOn{
+  background:red;
+}
+.playerOff{
+  background:grey;
+}

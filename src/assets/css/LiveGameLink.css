@@ -1,0 +1,25 @@
+.LiveGameLink{
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+  background-color: #193f73;
+}
+.LiveGameLink>div{
+  height: 22px;
+}
+
+.LiveGameLink a{
+  bottom: 3px;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+}
+
+.LiveGameLink a:hover p{
+  color: #ed244f;
+}
+
+.LiveGameLink>.playByPlay {
+  border-bottom: 0.1px solid black;
+}
