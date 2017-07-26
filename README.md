@@ -1,4 +1,4 @@
-### Installing and testing the challenge
+### Installing and running the challenge
 
 A)Clone the repo to your local machine.
 
