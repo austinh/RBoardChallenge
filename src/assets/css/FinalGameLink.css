@@ -1,0 +1,26 @@
+.FinalGameLink{
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+  background-color: #193f73;
+}
+
+.FinalGameLink>div{
+  height: 22px;
+}
+
+.FinalGameLink a{
+  bottom: 3px;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+}
+
+.FinalGameLink a:hover{
+  color: #ed244f;
+}
+
+.FinalGameLink>.recap {
+  border-bottom: 0.1px solid black;
+}
